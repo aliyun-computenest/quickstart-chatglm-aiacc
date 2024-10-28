@@ -23,7 +23,7 @@
 选择网络配置，如果希望在已有vpc中使用，则选择不新建VPC，同时选择VPC的实例ID和交换机ID。否则，可以选择新建VPC如下图所示:
 ![image.png](5.png)
 
-设置模型配置，请将ChatGLM-6B模型权重地址填入PluginGitUrl字段中，例如[https://huggingface.co/THUDM/chatglm-6b](https://huggingface.co/THUDM/chatglm-6b)，如下图所示：
+设置模型配置，请将ChatGLM-6B模型权重地址填入PluginGitUrl字段中，如下图所示：
 ![image.png](6.png)
 
 点击下一步:确认订单，并勾选服务条款，点击创建：
